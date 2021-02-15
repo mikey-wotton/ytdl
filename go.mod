@@ -2,6 +2,8 @@ module github.com/mikey-wotton/ytdl
 
 go 1.14
 
+replace github.com/rylio/ytdl v1.0.4 => github.com/mikey-wotton/ytdl v0.6.4
+
 require (
 	github.com/antchfx/jsonquery v1.1.4
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
