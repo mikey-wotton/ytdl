@@ -1,4 +1,4 @@
-module github.com/rylio/ytdl
+module github.com/mikey-wotton/ytdl
 
 go 1.14
 
